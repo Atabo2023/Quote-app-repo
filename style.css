@@ -11,6 +11,8 @@ body {
   height: 100vh;
   text-align: center;
   background-image: url("istockphoto.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
