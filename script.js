@@ -1,29 +1,29 @@
 "use strict";
 
-const btn = document.querySelector("#new-button");
+const btn = document.querySelector("#new-quote");
 const quote = document.querySelector(".quote");
 const person = document.querySelector(".person");
 
 const quotes = [
   {
-    quote: `"the best way to find ur self is to loose ur self in the service of other"`,
+    quote: `"The best way to find ur self is to loose ur self in the service of other"`,
     person: `Victor`,
   },
   {
-    quote: `"The best way to learn is by continuous paratice and ask questions, however to understand what you learn it is parament you practice it as well as try to do something your self, de research"`,
-    person: `Isa`,
+    quote: `"The kingdom of God suffer violet and the violet taketh by force"`,
+    person: `victor`,
   },
   {
-    quote: `"the best way to find ur self is to loose ur self in the service of other"`,
+    quote: `"Desperation is the key to success"`,
     person: `David`,
   },
   {
-    quote: `"the best way to find ur self is to loose ur self in the service of other"`,
+    quote: `"The best way to find ur self is to loose ur self in the service of other"`,
     person: `Victor`,
   },
   {
-    quote: `"the best way to find ur self is to loose ur self in the service of other"`,
-    person: `Victor`,
+    quote: `"Always remember to do something new everyday"`,
+    person: `Isa`,
   },
   {
     quote: `"the best way to find ur self is to loose ur self in the service of other"`,
@@ -42,8 +42,8 @@ const quotes = [
     person: `Victor senior enginneer`,
   },
   {
-    quote: `"the best way to find ur self is to loose ur self in the service of other"`,
-    person: `Victor`,
+    quote: `"The best way to learn is by continous practice"`,
+    person: `Isa`,
   },
   {
     quote: `"the best way to find ur self is to loose ur self in the service of other"`,

@@ -10,7 +10,7 @@ body {
   justify-content: center;
   height: 100vh;
   text-align: center;
-  background-image: url("istockphoto.jpg");
+  background-image: url("Screenshot.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -42,15 +42,14 @@ body {
 
 .main-content .text-area {
   font-size: 1.5rem;
-  font-weight: 1.5;
+  line-height: 1.5;
 }
 
 .main-content .person {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   color: red;
-  text-decoration: uppercase;
   text-transform: uppercase;
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-weight: 600;
 }
 
@@ -67,9 +66,12 @@ body {
   background-color: lightblue;
 }
 
-#new-qoute {
+#new-quote {
   background-color: #262626;
   color: #fff;
   cursor: pointer;
-  margin-top: 2rem;
+}
+
+.person {
+  margin-bottom: 0.5rem;
 }
